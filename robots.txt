@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohnahnguez.tl-dr.se/sitemap.xml
